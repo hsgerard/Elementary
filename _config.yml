@@ -1,9 +1,9 @@
-title : Elementary - Jekyll Blog Theme
-name: 'Elementary Jekyll Theme'
-description: 'Simple, light weight, responsive jekyll theme for the hackers'
+title : H S Gerard
+name: 'H S Gerard'
+description: 'Writing about design, life, etc.'
 
 markdown: kramdown
 highlighter: rouge
-baseurl: /
+baseurl: http://hsgerard.com
 
 permalink: /:title
